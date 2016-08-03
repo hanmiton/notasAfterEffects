@@ -27,4 +27,34 @@ Que es Render?
 	es un archivo que ya no se pude editar facilmente
 	Se realiza el render sobre composiciones
 	Render d emaquians multiples cuano se usa en servidores
-	
+Assets 
+	Todo lo qeu se va usar para el proyeacto en affter effects
+	hay capas 	que son referenciadas y otras que se encuentran dentro de after effects
+Composiciones a partir de photoshop
+	After effect se parece mucho a photoshop
+	Import retain layer Sizes
+Composicion a partir de illustraitor
+	Es un programa en el cual las imagenes se encuentran hechas con vectores
+	Siempre guardar con illustraitro 8 para la importacion en after effects
+Tipos Importacion
+	doble click
+	file
+Interpretacion de material
+	Interpeta secuancia de imagens como animacion(pero se debe definer a cuantos cuadrosa sido animada)
+	click izquierdo (interpret footage-main)
+	en audios no modifcar el frame rate
+Switches, mode, botones
+	swithces globales, switches locales
+	hay globales q controlan a los locales
+	Switch candado 
+	Switch aizlar capas
+	Switch ocular ( nose va ver en el render)
+	switch shy (sirve para ocultar cosas) pero se debe activas el global
+	switch suavizar para que no se note pixelear en resoluciones grandes
+	switch fx es para efectos (sirve para sesabilitar los efectos)
+	switch video intermpolacion de cuador q genera cuador virtules para q la camara lenta se vea mejor
+	switch desenfoque de movimiento
+	switch capa de color (para ahcer ocrreciones de color)
+	switch 3d (convierte una iamgen para q se pueda move en un espacio 3d)
+
+
