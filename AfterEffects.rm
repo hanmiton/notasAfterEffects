@@ -56,5 +56,41 @@ Switches, mode, botones
 	switch desenfoque de movimiento
 	switch capa de color (para ahcer ocrreciones de color)
 	switch 3d (convierte una iamgen para q se pueda move en un espacio 3d)
+Solids
+	siempre crear al 100*100
+Efectos
+	Generate (generar degradados)
+	Glow levantar los colores
+Mate
+	animaciones de blanco y negro
+	lum.inve se ve solo lo negro
+Threshold
+	hace q los efectos sean mas solidos (aplicado mate)
+alt+click cronometro
+	 se puede 
+herramienta de latigo 
+	vinclar propiedades con otra
+	tener algunos controles en la parte principal
+trazos animados
+	precomponer
+		para usar algo como una sola capa dentro d ela compossicion
+pluma
+	permite hacer trazos y curvas con (click sostenido)
+stroke para generar una linea
+avapag
+revpag 
+	para avanzar cuador en la animacion
+U 
+	para ver los keyframes
+VFX
+	paretn para vincular y los de editan
+videos
+	Creador por le tres canales alfa
+		rojo verde azul
+	y el alfa
+desfazar tiempo para efecto electricidad
+anchor poing punto de anclaje par no eliminar animaicnes o algo asi (consultar)
 
-
+photoshop
+	 se peude tranformar las imagenes en textos editables
+illustrator
